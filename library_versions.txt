@@ -1,0 +1,20 @@
+Package/Library Versions:
+  tfConvoluteMalaria.ipynb:
+    pandas = 1.2.0
+    numpy = 1.18.5
+    tensorflow-gpu = 2.3.0
+    seaborn = 0.11.1
+    matplotlib-base = 3.2.2
+    tqdm = 4.54.1
+    scikit-learn = 0.24.0
+    joblib = 1.0.0
+
+  deployment_tst.py:
+    numpy = 1.18.5
+    tensorflow-gpu = 2.3.0
+    joblib = 1.0.0
+    flask = 1.1.2
+    flask-uploads = 0.2.1
+    flask-wtf = 0.14.3
+    wtforms = 2.3.3
+    pillow = 8.0.1
